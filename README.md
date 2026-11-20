@@ -14,6 +14,8 @@ Nothing leaves your machine. No install, no network, no config files, no admin r
 
 不联网、不安装、不要管理员权限。
 
+> **Download · 下载** → [**FileBreaker.exe (v1.1.0)**](https://github.com/Nanyin520/file-toolkit/releases/latest) · 免安装，双击即用 / no installer, just run it
+
 ![Corrupt page](docs/screenshots/zh-corrupt.png)
 ![Timestamps page](docs/screenshots/zh-timestamps.png)
 
